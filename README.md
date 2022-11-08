@@ -34,7 +34,7 @@ The following image shows the web application's appearance and functionality:
 
 ![Screenshot of application top half](/OvertheHoriseon/Main/assets/images/screenshot1.png?raw=true "Screenshot 1")
 
-![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/screenshot2.png)
+![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/screenshot2.png?raw=true "screenshot 2")
 
 
 ## Notes
