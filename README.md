@@ -30,8 +30,11 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page. Mock image](Main/assets/images/01-html-css-git-homework-demo.png)
 
-![Screenshot of application top half](/OvertheHoriseon/Main/assets/images/Screenshot%202022-11-08%20024452.png?raw=true "Screenshot 1")
-![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/Screenshot%202022-11-08%20024417.png?raw=true "Screenshot 2")
+##Screenshots
+
+![Screenshot of application top half](/OvertheHoriseon/Main/assets/images/screenshot1.png?raw=true "Screenshot 1")
+
+![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/screenshot2.png)
 
 
 ## Notes
