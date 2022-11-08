@@ -34,7 +34,7 @@ The following image shows the web application's appearance and functionality:
 
 ![Screenshot of application top half](https://github.com/Geckogiggles/OvertheHoriseon/blob/main/Main/assets/images/screenshot1.png)
 
-![Screenshot of application bottom half](https://github.com/Geckogiggles/OvertheHoriseon/blob/main/Main/assets/images/screenshot2.png)
+![Screenshot of application bottom half](https://github.com/Geckogiggles/OvertheHoriseon/blob/main/Main/assets/images/screenshot2.png?raw=true)
 
 
 ## Notes
