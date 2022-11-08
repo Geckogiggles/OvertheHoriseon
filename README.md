@@ -32,9 +32,9 @@ The following image shows the web application's appearance and functionality:
 
 ##Screenshots
 
-![Screenshot of application top half](/OvertheHoriseon/Main/assets/images/Screenshot%202022-11-08%20024452.png?raw=true "Screenshot 1")
+![Screenshot of application top half](/OvertheHoriseon/Main/assets/images/screenshot1.png?raw=true "Screenshot 1")
 
-![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/Screenshot%202022-11-08%20024417.png?raw=true "Screenshot 2")
+![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/screenshot2.png)
 
 
 ## Notes
