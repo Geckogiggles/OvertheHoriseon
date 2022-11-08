@@ -32,9 +32,9 @@ The following image shows the web application's appearance and functionality:
 
 ## Screenshots
 
-![Screenshot of application top half](/OvertheHoriseon/Main/assets/images/screenshot1.png?raw=true "Screenshot 1")
+![Screenshot of application top half](https://github.com/Geckogiggles/OvertheHoriseon/blob/main/Main/assets/images/screenshot1.png)
 
-![Screenshot of application bottom half](/OvertheHoriseon/Main/assets/images/screenshot2.png?raw=true "screenshot 2")
+![Screenshot of application bottom half](https://github.com/Geckogiggles/OvertheHoriseon/blob/main/Main/assets/images/screenshot2.png?raw=true)
 
 
 ## Notes
