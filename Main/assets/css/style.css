@@ -154,6 +154,8 @@ footer h2 {
     font-size: 20px;
 }
 
+/* FUNCTIONALITY FOR SMALL SCREEN SIZES USING FLEXBOX */
+
 @media screen and (max-width:1000px) {
     header {
         flex-shrink: 50%;
