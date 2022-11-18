@@ -36,6 +36,6 @@ The following image shows the web application's appearance and functionality:
 
 ![Screenshot of application bottom half](https://github.com/Geckogiggles/OvertheHoriseon/blob/main/Main/assets/images/screenshot2.png?raw=true)
 
-
+### [Link to Deployed Website](https://geckogiggles.github.io/OvertheHoriseon/)
 ## Notes
 Some extra "flex" features were added to the project's CSS to improve the functionality across mobile devices and differing screen sizes.
